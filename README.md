@@ -1,4 +1,4 @@
-# 🚀 ML Project Template
+# 🚀 ML Project Template - Fork
 
 A modern template for machine learning experimentation using **wandb**, **hydra-zen**, and **submitit** on a Slurm cluster with Docker/Apptainer containerization.
 
